@@ -2,7 +2,7 @@
 package l1q2;
 public class L1Q2 {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello world zhi wei");
         System.out.println("Full name: Ng Zhi Wei");
         System.out.println("Matric number: 23051966");
         System.out.println("Address: Universiti Malaya");
